@@ -8,7 +8,7 @@ function LoginPage() {
         <div>
             <div>
                 <button onClick={() => router.push('/api/auth/signin/github')}>
-                    Iniciar Sesion con GitHub
+                    Iniciar Sesion
                     </button>
             </div>
         </div>
